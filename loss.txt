@@ -1,0 +1,12 @@
+
+Loss: 0.0213186
+ Training Loss: 0.006527071
+ Validation Loss: 421.82676191629497
+ Training Loss: 0.0049775885
+ Validation Loss: 318.2034268781899
+ Training Loss: 0.004122396
+ Validation Loss: 291.2189598440195
+ Training Loss: 0.0040242723
+ Validation Loss: 275.5478330425995
+ Training Loss: 0.0041751764
+ Validation Loss: 260.53758806049746
