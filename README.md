@@ -31,6 +31,6 @@ You can train or test the baseline network on DFC2023 dataset.
   <img src="images/Model_Picture1.jpg" alt="Alt text" title="Model sketch">
 
  
-  ## Resutlts: Height Predictions
-  <img src="images/height_predictions.png" alt="Alt text" title="Model sketch">
+  ## Results: Height Predictions
+  <img src="images/height_predictions.PNG" alt="Alt text" title="Model sketch">
 
