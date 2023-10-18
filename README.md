@@ -24,3 +24,9 @@ You can train or test the baseline network on DFC2023 dataset.
   ```
   python test.py
   ```
+
+
+
+
+  <img src="images/Model_Picture1.jpg" alt="Alt text" title="Model sketch">
+
